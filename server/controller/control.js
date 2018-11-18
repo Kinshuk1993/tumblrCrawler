@@ -181,7 +181,7 @@ exports.analytics = function() {
             async.forEachSeries(allBlogNameArray, function(eachBlog, callback) {
                 client.blogPosts(eachBlog, {type: 'text'}, function (err, resp) {
                     if (err) {
-                        logger.error('Error in finding blogs of type link: ' + JSON.stringify(err));
+                        logger.error('Error in finding blogs of type text: ' + JSON.stringify(err));
                         callback();
                     } else {
                         logger.info('The number of text type posts for ' + eachBlog + ' is: ' + resp.posts.length);
@@ -205,7 +205,7 @@ exports.analytics = function() {
             async.forEachSeries(allBlogNameArray, function(eachBlog, callback) {
                 client.blogPosts(eachBlog, {type: 'photo'}, function (err, resp) {
                     if (err) {
-                        logger.error('Error in finding blogs of type link: ' + JSON.stringify(err));
+                        logger.error('Error in finding blogs of type photo: ' + JSON.stringify(err));
                         callback();
                     } else {
                         logger.info('The number of photo type posts for ' + eachBlog + ' is: ' + resp.posts.length);
