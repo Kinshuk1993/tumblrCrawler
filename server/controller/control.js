@@ -226,5 +226,9 @@ exports.analytics = function() {
         }
     ], function(errWaterfall, result) {
         logger.info('Total data analysed: ' + totalBlogData.length);
+        //close the program after 1 second
+        setTimeout((function() {  
+            return process.exit(22);
+        }), 1000);
     })
 }

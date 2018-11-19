@@ -1,0 +1,74 @@
+2018-11-19 13:44:30 info: Successfully connected to database
+2018-11-19 13:44:30 info: Going to the next function to get posts of each blog the user follows
+2018-11-19 13:44:31 info: Saved the hannahkemp blog data
+2018-11-19 13:44:32 info: Saved the househuntingscotland blog data
+2018-11-19 13:44:33 info: Saved the beautiful-scotland blog data
+2018-11-19 13:44:34 info: Saved the 123ailsabrown blog data
+2018-11-19 13:44:35 info: Saved the aricenttech blog data
+2018-11-19 13:44:35 info: Saved the eroshotelnewdelhi blog data
+2018-11-19 13:44:36 info: Saved the iomfurkan blog data
+2018-11-19 13:44:37 info: Saved the photographdelhi blog data
+2018-11-19 13:44:38 info: Saved the delhibarcrawl blog data
+2018-11-19 13:44:38 info: Saved the oh-glasgow blog data
+2018-11-19 13:44:39 info: Saved the pre-party blog data
+2018-11-19 13:44:40 info: Saved the travelingcolors blog data
+2018-11-19 13:44:41 info: Saved the staff blog data
+2018-11-19 13:44:41 info: Going to function 3
+2018-11-19 13:44:41 info: Main waterfall completed, now working on event callback for other analytics
+2018-11-19 13:44:41 info: Total posts of blog hannahkemp are: 1953
+2018-11-19 13:44:41 info: Total posts of blog househuntingscotland are: 406
+2018-11-19 13:44:41 info: Total posts of blog beautiful-scotland are: 1678
+2018-11-19 13:44:41 info: Total posts of blog 123ailsabrown are: 25358
+2018-11-19 13:44:41 info: Total posts of blog aricenttech are: 446
+2018-11-19 13:44:41 info: Total posts of blog eroshotelnewdelhi are: 414
+2018-11-19 13:44:41 info: Total posts of blog iomfurkan are: 27
+2018-11-19 13:44:41 info: Total posts of blog photographdelhi are: 721
+2018-11-19 13:44:41 info: Total posts of blog delhibarcrawl are: 1566
+2018-11-19 13:44:41 info: Total posts of blog oh-glasgow are: 2068
+2018-11-19 13:44:41 info: Total posts of blog pre-party are: 72756
+2018-11-19 13:44:41 info: Total posts of blog travelingcolors are: 13573
+2018-11-19 13:44:41 info: Total posts of blog staff are: 2333
+2018-11-19 13:44:42 info: Going to the next function to get link type posts of each blog the user follows
+2018-11-19 13:44:42 info: The number of link type posts for hannahkemp is: 3
+2018-11-19 13:44:43 info: The number of link type posts for househuntingscotland is: 0
+2018-11-19 13:44:43 info: The number of link type posts for beautiful-scotland is: 3
+2018-11-19 13:44:44 info: The number of link type posts for 123ailsabrown is: 20
+2018-11-19 13:44:44 info: The number of link type posts for aricenttech is: 20
+2018-11-19 13:44:45 info: The number of link type posts for eroshotelnewdelhi is: 2
+2018-11-19 13:44:45 info: The number of link type posts for iomfurkan is: 0
+2018-11-19 13:44:46 info: The number of link type posts for photographdelhi is: 20
+2018-11-19 13:44:47 info: The number of link type posts for delhibarcrawl is: 20
+2018-11-19 13:44:48 info: The number of link type posts for oh-glasgow is: 20
+2018-11-19 13:44:49 info: The number of link type posts for pre-party is: 1
+2018-11-19 13:44:50 info: The number of link type posts for travelingcolors is: 18
+2018-11-19 13:44:50 info: The number of link type posts for staff is: 20
+2018-11-19 13:44:50 info: Going to function 5 to find number of text type posts fo each blog
+2018-11-19 13:44:51 info: The number of text type posts for hannahkemp is: 5
+2018-11-19 13:44:52 info: The number of text type posts for househuntingscotland is: 13
+2018-11-19 13:44:52 info: The number of text type posts for beautiful-scotland is: 20
+2018-11-19 13:44:53 info: The number of text type posts for 123ailsabrown is: 0
+2018-11-19 13:44:53 info: The number of text type posts for aricenttech is: 1
+2018-11-19 13:44:57 info: The number of text type posts for eroshotelnewdelhi is: 11
+2018-11-19 13:44:58 info: The number of text type posts for iomfurkan is: 3
+2018-11-19 13:44:58 info: The number of text type posts for photographdelhi is: 20
+2018-11-19 13:44:59 info: The number of text type posts for delhibarcrawl is: 20
+2018-11-19 13:45:00 info: The number of text type posts for oh-glasgow is: 20
+2018-11-19 13:45:01 info: The number of text type posts for pre-party is: 20
+2018-11-19 13:45:02 info: The number of text type posts for travelingcolors is: 20
+2018-11-19 13:45:03 info: The number of text type posts for staff is: 20
+2018-11-19 13:45:03 info: Going to function 6 to find number of photo type posts for each blog
+2018-11-19 13:45:04 info: The number of photo type posts for hannahkemp is: 20
+2018-11-19 13:45:05 info: The number of photo type posts for househuntingscotland is: 20
+2018-11-19 13:45:05 info: The number of photo type posts for beautiful-scotland is: 20
+2018-11-19 13:45:06 info: The number of photo type posts for 123ailsabrown is: 20
+2018-11-19 13:45:07 info: The number of photo type posts for aricenttech is: 1
+2018-11-19 13:45:07 info: The number of photo type posts for eroshotelnewdelhi is: 20
+2018-11-19 13:45:08 info: The number of photo type posts for iomfurkan is: 20
+2018-11-19 13:45:09 info: The number of photo type posts for photographdelhi is: 20
+2018-11-19 13:45:10 info: The number of photo type posts for delhibarcrawl is: 20
+2018-11-19 13:45:11 info: The number of photo type posts for oh-glasgow is: 20
+2018-11-19 13:45:11 info: The number of photo type posts for pre-party is: 20
+2018-11-19 13:45:12 info: The number of photo type posts for travelingcolors is: 20
+2018-11-19 13:45:13 info: The number of photo type posts for staff is: 20
+2018-11-19 13:45:13 info: Going to final function
+2018-11-19 13:45:13 info: Total data analysed: 13
