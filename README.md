@@ -1,5 +1,5 @@
 # Tumble Crawler App:
-Tumblr Crawler in Javascript
+A Tumblr crawler application written using Javascript
 
 This application is used to get the authenticating user's details and the blogs, likes he follows and hence doing some analytics on the obtained data.
 
